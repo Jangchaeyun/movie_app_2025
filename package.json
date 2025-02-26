@@ -8,6 +8,7 @@
     "@testing-library/user-event": "14.6.0",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "prop-types": "^15.8.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -38,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://canine89.github.io/movie_app_2025",
+  "homepage": "https://Jangchaeyun.github.io/movie_app_2025",
   "devDependencies": {
     "web-vitals": "^4.2.4"
   }
